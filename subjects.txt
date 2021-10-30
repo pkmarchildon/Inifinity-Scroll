@@ -1,0 +1,4 @@
+Infinity scrolling
+Mobile responsive
+Fetch pictures from the unplash API
+Customized loading animation
